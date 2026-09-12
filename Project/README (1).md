@@ -67,9 +67,7 @@ The main data preparation steps included:
 5. Identify the top 5 skills for each role
 6. Visualize the results
 
-### Notebook
 
-[View the Skill Demand Analysis](1_skill_demand.ipynb)
 
 ### Key Findings
 
@@ -94,9 +92,6 @@ The main data preparation steps included:
 5. Identify the most in-demand skills
 6. Visualize the trends
 
-### Notebook
-
-[View the Skill Trend Analysis](2_skill_trend.ipynb)
 
 ### Key Findings
 
@@ -119,9 +114,7 @@ The analysis shows how the demand for important Data Analyst skills changes over
 5. Compare high-paying and highly demanded skills
 6. Visualize the results
 
-### Notebook
 
-[View the Salary Analysis](3_salary_analysis.ipynb)
 
 ### Key Findings
 
@@ -146,9 +139,7 @@ For this analysis, I wanted to identify skills that provide a good balance betwe
 5. Visualize the relationship using a scatter plot
 6. Identify skills that have both strong demand and salary potential
 
-### Notebook
 
-[View the Optimal Skills Analysis](4_optimal_skills.ipynb)
 
 ### Key Findings
 
